@@ -44,8 +44,8 @@ I build backend services, production ML serving, and data pipelines end‑to‑e
 - Classical artwork generation — GANs in PyTorch — repo: `classical-artwork-gan`
 - Smart pedometer — STM32F429ZI + Mbed OS — repo: `smart-pedometer`
 - Tri‑Wizard Quest — Java Swing maze game — repo: `tri-wizard-quest`
-- AI‑Powered Resume Analysis — Flask/React + BERT, PostgreSQL — resume project
-- Project Management Tool — React/Node/Socket.IO/Twilio — resume project
+- AI‑Powered Resume Analysis — Flask/React + BERT, PostgreSQL
+- Project Management Tool — React/Node/Socket.IO/Twilio 
 
 ---
 
