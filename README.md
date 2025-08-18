@@ -1,32 +1,79 @@
-## Hi, I'm Aaftab Mohammad
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aaftab+Mohammad;Machine+Learning+%7C+Big+Data+%7C+Systems;Python+%7C+Java+%7C+C%2B%2B;Always+learning%2C+always+building" alt="Typing intro" />
 
-I build practical projects across machine learning, big data, embedded systems, and Java. I'm currently studying Computer Science at NYU Tandon.
-
-### Featured repositories
-- [Bank Account Fraud Detection (Big Data Final Project)](https://github.com/aaftab007/Big_Data_Final-Project)
-- [Machine Learning in Cybersecurity Labs](https://github.com/aaftab007/machine-learning-cybersecurity-labs)
-- [Classical Artwork Generation (GANs)](https://github.com/aaftab007/classical-artwork-gan)
-- [Smart Pedometer (STM32F429ZI + Mbed OS)](https://github.com/aaftab007/smart-pedometer)
-- [Tri‑Wizard Quest (Java Swing Game)](https://github.com/aaftab007/tri-wizard-quest)
-
-### Skills I use
-- Python, Java, C++
-- PyTorch, scikit‑learn, XGBoost
-- FastAPI, REST APIs
-- Apache Spark, data pipelines
-- Docker, Google Cloud (GCS, Cloud Run)
-- STM32, Mbed OS, basic embedded IO
-
-### Contact
-- LinkedIn: [add your URL]
-- Email: [add your email]
-- Portfolio/Resume: [add link]
+</div>
 
 ---
 
-<details>
-<summary>GitHub stats</summary>
+### About
+I'm a Computer Science grad student at NYU Tandon who enjoys building practical, end‑to‑end projects across ML, big data, embedded systems, and Java. I like clear, well‑documented code and shipping things that work.
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaftab007&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+### Featured repositories
 
-</details>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/aaftab007/Big_Data_Final-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=Big_Data_Final-Project&theme=radical&hide_border=true&show_owner=true" alt="Big Data Final Project" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/aaftab007/machine-learning-cybersecurity-labs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=machine-learning-cybersecurity-labs&theme=radical&hide_border=true&show_owner=true" alt="ML in Cybersecurity Labs" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/aaftab007/classical-artwork-gan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=classical-artwork-gan&theme=radical&hide_border=true&show_owner=true" alt="Classical Artwork GAN" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/aaftab007/smart-pedometer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=smart-pedometer&theme=radical&hide_border=true&show_owner=true" alt="Smart Pedometer" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/aaftab007/tri-wizard-quest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=tri-wizard-quest&theme=radical&hide_border=true&show_owner=true" alt="Tri‑Wizard Quest" />
+      </a>
+    </td>
+    <td width="50%">
+      
+    </td>
+  </tr>
+</table>
+
+### Tools I use
+
+<div>
+
+- Languages: Python, Java, C++
+- ML: PyTorch, scikit‑learn, XGBoost
+- APIs: FastAPI, REST
+- Data: Apache Spark, Pandas, NumPy
+- DevOps: Docker, Google Cloud (GCS, Cloud Run)
+- Embedded: STM32, Mbed OS
+
+</div>
+
+### GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaftab007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab007&layout=compact&theme=radical&hide_border=true" alt="top-langs" />
+</div>
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/aaftab-mohammad/
+- Email: aaftab.mohammad16@gmail.com
+- Portfolio: https://www.aaftabmohammad.com
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!;Feel+free+to+check+out+the+projects+above." alt="Typing footer" />
+</div>
