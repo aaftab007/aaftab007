@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aaftab+Mohammad;Machine+Learning+%7C+Big+Data+%7C+Systems;Python+%7C+Java+%7C+C%2B%2B;Always+learning%2C+always+building" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aaftab+Mohammad;Always+learning%2C+always+building" alt="Typing intro" />
 
 </div>
 
