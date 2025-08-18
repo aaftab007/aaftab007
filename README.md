@@ -7,7 +7,7 @@
 ---
 
 ### About
-I'm a Computer Science grad student at NYU Tandon who enjoys building practical, end‑to‑end projects across ML, big data, embedded systems, and Java. I like clear, well‑documented code and shipping things that work.
+I'm a Computer Science grad student at New York University who enjoys building practical, scalable, end‑to‑end projects across AI, ML, big data, embedded systems etc. I like clear, well‑documented code and shipping things that work.
 
 ### Featured repositories
 
@@ -61,11 +61,7 @@ I'm a Computer Science grad student at NYU Tandon who enjoys building practical,
 
 </div>
 
-### GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaftab007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab007&layout=compact&theme=radical&hide_border=true" alt="top-langs" />
-</div>
+
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/aaftab-mohammad/
