@@ -1,75 +1,69 @@
 <div align="center">
+<<<<<<< HEAD
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Aaftab+Mohammad;Always+learning%2C+always+building" alt="Typing intro" />
 
+=======
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=720&lines=Aaftab+Mohammad;Software+Engineer+%E2%80%A2+ML%2FAI+%E2%80%A2+Systems;Building+reliable%2C+fast%2C+useful+software" alt="intro" />
+>>>>>>> 6163ed4 (refactor(profile): minimal, role-focused README for SDE/ML/AI roles (no stats/links))
 </div>
 
 ---
 
+<<<<<<< HEAD
 ### About
 I'm a Computer Science grad student at New York University who enjoys building practical, scalable, end‑to‑end projects across AI, ML, big data, embedded systems etc. I like clear, well‑documented code and shipping things that work.
+=======
+### Target roles
+- SDE (Backend/Platform)
+- ML/AI Engineer (training + serving)
+- ML Platform / Data Engineering
+- Quant/SWE (systems + data)
+>>>>>>> 6163ed4 (refactor(profile): minimal, role-focused README for SDE/ML/AI roles (no stats/links))
 
-### Featured repositories
+### Focus areas
+- Designing and building clean APIs and services that are easy to operate
+- Training and serving ML models with clear interfaces and guardrails
+- Data pipelines for feature engineering and analytics (batch + streaming)
+- Performance and reliability: profiling, observability, testing
+- Practical security mindset: inputs, secrets, and least‑privilege defaults
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/aaftab007/Big_Data_Final-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=Big_Data_Final-Project&theme=radical&hide_border=true&show_owner=true" alt="Big Data Final Project" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/aaftab007/machine-learning-cybersecurity-labs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=machine-learning-cybersecurity-labs&theme=radical&hide_border=true&show_owner=true" alt="ML in Cybersecurity Labs" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/aaftab007/classical-artwork-gan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=classical-artwork-gan&theme=radical&hide_border=true&show_owner=true" alt="Classical Artwork GAN" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/aaftab007/smart-pedometer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=smart-pedometer&theme=radical&hide_border=true&show_owner=true" alt="Smart Pedometer" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/aaftab007/tri-wizard-quest">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaftab007&repo=tri-wizard-quest&theme=radical&hide_border=true&show_owner=true" alt="Tri‑Wizard Quest" />
-      </a>
-    </td>
-    <td width="50%">
-      
-    </td>
-  </tr>
-</table>
-
-### Tools I use
+### Tech I use
 
 <div>
 
-- Languages: Python, Java, C++
-- ML: PyTorch, scikit‑learn, XGBoost
-- APIs: FastAPI, REST
-- Data: Apache Spark, Pandas, NumPy
-- DevOps: Docker, Google Cloud (GCS, Cloud Run)
-- Embedded: STM32, Mbed OS
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit‑learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B)
 
 </div>
 
+<<<<<<< HEAD
 
+=======
+### How I work
+- Start simple, iterate fast, document decisions
+- Measure first; optimize the hot path, not the whole system
+- Automated tests and CI as the safety net
+- Clear boundaries between data/logic/IO for easier changes
+>>>>>>> 6163ed4 (refactor(profile): minimal, role-focused README for SDE/ML/AI roles (no stats/links))
 
-### Contact
-- LinkedIn: https://www.linkedin.com/in/aaftab-mohammad/
-- Email: aaftab.mohammad16@gmail.com
-- Portfolio: https://www.aaftabmohammad.com
+### Hiring? TL;DR
+- Backend services with FastAPI/Java, containerized and deployable
+- ML training notebooks to reproducible pipelines; serving via REST with validation
+- Spark‑based data prep and features; storage with GCS/Parquet/Postgres
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!;Feel+free+to+check+out+the+projects+above." alt="Typing footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&lines=Open+to+SDE%2C+ML%2FAI%2C+and+Platform+opportunities" alt="outro" />
 </div>
