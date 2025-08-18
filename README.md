@@ -33,19 +33,10 @@ I build backend services, production ML serving, and data pipelines end‑to‑e
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-### Experience (highlights)
-- Software Engineer Intern — Mazgen Technologies (Jan–May 2023)
-  - Kafka‑backed price‑inventory pipeline; reduced p95 latency from ~800ms → ~300ms for 5k concurrent users
-  - Redis caching + MySQL indexing improvements; OAuth2 hardening and incident reduction
-- Software Engineer Intern — Cloudwapp Technologies (Feb–May 2021)
-  - Legacy task API middleware; 70% crash reduction, 85% failed requests auto‑recovered
-  - Slack alerts + runbooks; 99.9% uptime targets; query/path optimizations
-- Web Developer Intern — Global Galaxy Intl. Consultancy (Aug–Nov 2020)
-  - jQuery → React migration; page‑load improved; Lighthouse/CI integration with Jest + Lighthouse
 
 ### Education
-- New York University — MS, Computer Science (2023–2025)
-- Nirma University — BTech, Computer Science and Engineering (2019–2023)
+- New York University — MS, Computer Engineering
+
 
 ### Selected work
 - Bank fraud detection (Big Data) — FastAPI + XGBoost, GCP, Spark — repo: `Big_Data_Final-Project`
