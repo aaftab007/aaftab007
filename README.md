@@ -26,8 +26,8 @@ Embedded Performance & Power Optimization Engineer with 3+ years of experience d
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### Education
-- **New York University** — M.S. Computer Engineering *(2023 – 2025)*
-- **Nirma University** — B.Tech. Computer Science & Engineering *(2019 – 2023)*
+- **New York University** — M.S. Computer Engineering
+- **Nirma University** — B.Tech. Computer Science & Engineering
 
 ### Selected Work
 - **Real-Time Pedometer** — STM32F429ZI + Mbed OS, SPI gyroscope, threshold-based step detection → [`smart-pedometer`](https://github.com/aaftab007/smart-pedometer)
